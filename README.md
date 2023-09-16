@@ -1,7 +1,7 @@
 # PHASE 4 PROJECT
 
 # TIME SERIES MODELLING FOR REAL ESTATE USING ZILLOW DATA 
-![Alt Text]([image_url](https://github.com/mercyodino/phase4project/blob/master/real%20estate%20image.jpg))
+![Alt Text](real estate image.jpg))
 
 
 ## INTRODUCTION
