@@ -1,8 +1,8 @@
 # PHASE 4 PROJECT
 
 # TIME SERIES MODELLING FOR REAL ESTATE USING ZILLOW DATA 
-![Alt Text](real estate image.jpg))
 
+![Alt Text](![real estate image png](https://github.com/mercyodino/phase4project/assets/132947934/70ffc62c-79b8-4a73-a5c4-c102bd732d63)))
 
 ## INTRODUCTION
 Real estate is real property that includes land and anything permanently attached to it or built on it, whether natural or man-made.In real estate there are five main categories which include residential, commercial, industrial, raw land, and special use.
